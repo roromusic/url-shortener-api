@@ -14,7 +14,7 @@ POST https://url-shortener-api.glitch.me/api/shorturl/new - body (urlencoded) : 
 
 #### Usage:
 
-[this_project_url]/api/shorturl/1
+https://url-shortener-api.glitch.me/api/shorturl/1
 
 #### Will redirect to:
 
